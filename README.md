@@ -65,8 +65,8 @@ I work where **AI quality meets software engineering**. I design and stress-test
 | Project | What it does | Stack |
 |---|---|---|
 | 🚆 **[Namma-Railu Buddy](https://github.com/Aneesa-atther/NammaRailuBuddy)** | GenAI Android commuter assistant with GPS alarms, offline-first sync and Gemini-powered natural-language help | Kotlin · MVVM · Firebase · Room · Retrofit · Gemini API |
-| ✅ **LLM Benchmark Verifier Suite** | Verifier and scenario-testing harness that standardizes pass/fail rubrics and auto-scores outputs against 6 domain checklists | Python · Pytest · Prompt Engineering |
-| 🔍 **AI Code Review Assistant** | Combines static-analysis output with LLM reasoning to flag bugs, security issues and style violations in PRs, with suggested fixes | Python · LLM API · Static Analysis |
+| ✅ **[LLM Benchmark Verifier Suite](https://github.com/Aneesa-atther/llm-benchmark-verifier-suite)** | Verifier and scenario-testing harness that standardizes pass/fail rubrics and auto-scores outputs against 6 domain checklists | Python · Pytest · Prompt Engineering |
+| 🔍 **[AI Code Review Assistant](https://github.com/Aneesa-atther/ai-code-review-assistant)** | Combines static-analysis output with LLM reasoning to flag bugs, security issues and style violations in PRs, with suggested fixes | Python · Claude API · AST · GitHub Actions |
 | 🔗 **[Fake Product Detection](https://github.com/Aneesa-atther/Fake-Product-detection-using-QR-code-through-blockchain-system)** | Blockchain authenticity verifier using unique product IDs and tamper-proof on-chain lifecycle records | Solidity · Truffle · Ganache |
 
 ---
