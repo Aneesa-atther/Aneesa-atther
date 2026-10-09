@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://aneesa-atther.github.io"><img src="https://img.shields.io/badge/Portfolio-aneesa--atther.github.io-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/aneesaatther"><img src="https://img.shields.io/badge/LinkedIn-aneesaatther-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:annuatther629@gmail.com"><img src="https://img.shields.io/badge/Email-annuatther629%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" />
